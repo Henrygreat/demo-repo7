@@ -1,3 +1,2 @@
 # Description
-Just a little test of what this is
-this has gone well if u see it
+if you see this, it is just a little test to show that this has gone well.
